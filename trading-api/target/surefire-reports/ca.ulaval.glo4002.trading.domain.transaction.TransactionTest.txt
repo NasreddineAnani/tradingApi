@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ca.ulaval.glo4002.trading.domain.transaction.TransactionTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.003 sec - in ca.ulaval.glo4002.trading.domain.transaction.TransactionTest

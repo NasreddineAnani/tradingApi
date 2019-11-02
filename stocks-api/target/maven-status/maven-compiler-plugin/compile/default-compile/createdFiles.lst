@@ -1,0 +1,13 @@
+ca/ulaval/glo4002/stocks/controllers/MarketController.class
+ca/ulaval/glo4002/stocks/repositories/CompanyRepository.class
+ca/ulaval/glo4002/stocks/StocksSpringApplication.class
+ca/ulaval/glo4002/stocks/controllers/CompanyController.class
+ca/ulaval/glo4002/stocks/ExposeEntityIdRestMvcConfiguration.class
+ca/ulaval/glo4002/stocks/repositories/StockRepository.class
+ca/ulaval/glo4002/stocks/StocksServer.class
+ca/ulaval/glo4002/stocks/repositories/MarketRepository.class
+ca/ulaval/glo4002/stocks/domain/stocks/Stock.class
+ca/ulaval/glo4002/stocks/controllers/StockController.class
+ca/ulaval/glo4002/stocks/domain/stocks/Price.class
+ca/ulaval/glo4002/stocks/domain/companies/Company.class
+ca/ulaval/glo4002/stocks/domain/markets/Market.class

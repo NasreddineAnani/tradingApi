@@ -1,0 +1,13 @@
+/Users/nas/Documents/tradingApi/stocks-api/src/main/java/ca/ulaval/glo4002/stocks/controllers/MarketController.java
+/Users/nas/Documents/tradingApi/stocks-api/src/main/java/ca/ulaval/glo4002/stocks/repositories/StockRepository.java
+/Users/nas/Documents/tradingApi/stocks-api/src/main/java/ca/ulaval/glo4002/stocks/StocksServer.java
+/Users/nas/Documents/tradingApi/stocks-api/src/main/java/ca/ulaval/glo4002/stocks/controllers/StockController.java
+/Users/nas/Documents/tradingApi/stocks-api/src/main/java/ca/ulaval/glo4002/stocks/domain/companies/Company.java
+/Users/nas/Documents/tradingApi/stocks-api/src/main/java/ca/ulaval/glo4002/stocks/domain/markets/Market.java
+/Users/nas/Documents/tradingApi/stocks-api/src/main/java/ca/ulaval/glo4002/stocks/ExposeEntityIdRestMvcConfiguration.java
+/Users/nas/Documents/tradingApi/stocks-api/src/main/java/ca/ulaval/glo4002/stocks/repositories/CompanyRepository.java
+/Users/nas/Documents/tradingApi/stocks-api/src/main/java/ca/ulaval/glo4002/stocks/domain/stocks/Price.java
+/Users/nas/Documents/tradingApi/stocks-api/src/main/java/ca/ulaval/glo4002/stocks/StocksSpringApplication.java
+/Users/nas/Documents/tradingApi/stocks-api/src/main/java/ca/ulaval/glo4002/stocks/domain/stocks/Stock.java
+/Users/nas/Documents/tradingApi/stocks-api/src/main/java/ca/ulaval/glo4002/stocks/repositories/MarketRepository.java
+/Users/nas/Documents/tradingApi/stocks-api/src/main/java/ca/ulaval/glo4002/stocks/controllers/CompanyController.java
