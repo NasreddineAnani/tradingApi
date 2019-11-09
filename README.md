@@ -1,4 +1,4 @@
-*For Shopify : I chose to showcase this project because it's not to simple and has a lot of things to discuss about (business, scaling, unit tests, integration tests).*
+*For Shopify : I chose to showcase this project because it's not too simple and has a lot of things to discuss about (business, scaling, unit tests, integration tests).*
 
 # Trading Api
 
@@ -15,7 +15,6 @@ mvn clean install
 mvn exec:java -pl application
 ```
 
-<<<<<<< HEAD
 ## Run the tests
 
 ```
@@ -24,7 +23,7 @@ mvn test
 
 ## API Documentation
 
-By default the trading api will launch at `localhost:8080`
+By default the `trading api` will launch at `localhost:8181/api`
 
 ### Open account
 
