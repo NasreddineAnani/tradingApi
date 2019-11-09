@@ -23,7 +23,10 @@ mvn test
 
 ## API Documentation
 
+Simply import the [postman file](https://github.com/NasreddineAnani/tradingApi/blob/master/TradingApi.postman_collection.json) into [Postman](https://www.getpostman.com/) to test the app.
+
 By default the `trading api` will launch at `localhost:8181/api`
+
 
 ### Open account
 
