@@ -1,4 +1,4 @@
-*For Shopify : I chose to showcase this project because it's not to simple and has a lot of things to discuss about (business, scaling, unit tests, integration tests).*
+*For Shopify : I chose to showcase this project because it's not too simple and has a lot of things to discuss about (business, scaling, unit tests, integration tests).*
 
 # Trading Api
 
