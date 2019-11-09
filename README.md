@@ -23,7 +23,7 @@ mvn test
 
 ## API Documentation
 
-By default the trading api will launch at `localhost:8080`
+By default the trading api will launch at `localhost:8080/api`
 
 ### Open account
 
