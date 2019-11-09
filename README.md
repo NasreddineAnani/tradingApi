@@ -15,7 +15,6 @@ mvn clean install
 mvn exec:java -pl application
 ```
 
-<<<<<<< HEAD
 ## Run the tests
 
 ```
