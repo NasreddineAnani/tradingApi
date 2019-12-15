@@ -1,5 +1,3 @@
-*For Shopify : I chose to showcase this project because it's not too simple and has a lot of things to discuss about (business, scaling, unit tests, integration tests).*
-
 # Trading Api
 
 This project is composed of three module. The `Application` module is used to launch the `Stock api` and the `Trading api`. The `Stock api` contains fake data representing the price of differents stocks in time. The `Trading api` use the `Stock api` data and enable user to make trades.
